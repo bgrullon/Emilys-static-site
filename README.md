@@ -1,11 +1,5 @@
 # Emily's Pet Grooming
 
-A simple, warm, spring-themed static website to help Emily build her pet
-grooming clientele in the **Morganton, NC (28655)** area.
-
-🌐 **Domain:** emilyspetgrooming.com
-📸 **Instagram:** [@emily_c_bare](https://www.instagram.com/emily_c_bare) — fastest way to reach Emily
-
 ## What's in here
 
 | File | Purpose |
